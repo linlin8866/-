@@ -6,3 +6,6 @@ curl -sL https://raw.githubusercontent.com/你的用户名/你的仓库/main/脚
 bash <(curl -Ls https://raw.githubusercontent.com/用户名/仓库名称/main/脚本.sh)
 
 bash <(wget -qO- https://raw.githubusercontent.com/linlin8866/仓库名称/main/脚本.sh)
+
+
+bash <(curl -L https://raw.githubusercontent.com/你的名字/仓库名/main/sinbox.sh) uninstall
